@@ -1,0 +1,4 @@
+The package TreeSitterPlusPlus provides CMake targets:
+
+    find_package(Tree-Sitter CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE Tree-Sitter::Tree-Sitter)
