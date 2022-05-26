@@ -1,0 +1,6 @@
+{
+  "name": "treesitterplusplus",
+  "version": "0.1.0",
+  "description": "C++ bindings for Tree-sitter.",
+  "homepage": "https://tree-sitter.github.io/tree-sitter/"
+}
